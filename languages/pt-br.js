@@ -121,54 +121,54 @@ export default {
     biometrics: "Biometria",
 
     // Proxy Cities
-    proxy_cze: "Praga, CZE",
-    proxy_ru: "São Petersburgo, RU",
-    proxy_fra: "Frankfurt, DE",
-    proxy_sfo: "São Francisco, USA",
-    proxy_nyc: "Nova Iorque, USA",
-    proxy_lon: "Londres, UK",
-    proxy_ams: "Amsterdam, NLD",
-    proxy_sgp: "Singapura, SG",
+    proxy_cze: "Praga, República Checa",
+    proxy_ru: "São Petersburgo, Rússia",
+    proxy_fra: "Frankfurt, Alemanha",
+    proxy_sfo: "São Francisco, EUA",
+    proxy_nyc: "Nova Iorque, EUA",
+    proxy_lon: "Londres, Reino Unido",
+    proxy_ams: "Amsterdam, Holanda",
+    proxy_sgp: "Singapura, Singapura",
 
     // Login.vue
-    initial_message: "Please log in to your account",
-    username: "Username",
-    password: "Password",
-    easy_login_phrase: "Easy Login phrase",
-    enter_your_password: "Enter your password",
-    login: "Login",
-    register_account_locally: "Register Account Locally",
-    no_proxy: "No proxy",
+    initial_message: "Por favor faça o login na sua conta",
+    username: "Nome do usuário",
+    password: "Senha",
+    easy_login_phrase: "Frase de Login Fácil",
+    enter_your_password: "Coloque sua senha",
+    login: "Entrar",
+    register_account_locally: "Registrar Conta Localmente",
+    no_proxy: "Nenhum proxy",
     proxy_capital: "Proxy",
     proxy: " proxy",
-    wrong_password: "Wrong password",
-    zelid_easy_login: "Zel ID Easy Login",
+    wrong_password: "Senha incorreta",
+    zelid_easy_login: "Login Fácil Zel ID",
 
     // helpcenter
-    welcome_help: "Welcome to the ZelCore Help Center. Here you can find our FAQ, Live Community Support, Community Forums and Discord.",
-    for_more_info: "For more information check out",
+    welcome_help: "Bem vindo ao Centro de Ajuda do ZelCore. Aqui você pode encontrar nossas Perguntas Frequentes, Suporte ao Vivo da Comunidade, Fóruns da Comunidade e Discord.",
+    for_more_info: "Para mais informações confira",
 
     // create.vue
-    create_account_info: "These credentials are used to locally register your lite wallets and your accounts encryption",
-    confirm_password: "Confirm Password",
-    login_to_account: "Login to account",
-    account_exist: "Account {username} already exists!",
-    account_registered: "Account {username} registered",
+    create_account_info: "Essas credenciais são usadas para registrar localmente suas carteiras lite e sua criptografia de contas",
+    confirm_password: "Confirme a Senha",
+    login_to_account: "Faça o login para a conta",
+    account_exist: "A conta {username} já existe!",
+    account_registered: "Conta {username} registrada",
 
     // account warning
-    password_is_key: "Your password is the key to access your funds, make it as strong as possible!",
-    no_keep_copy: "ZelCore does not keep a copy of your unencrypted password locally or remotely. Due to this feature there is no way to retrieve the password nor change it. \n"
-    + "If you lose (or forget) either your username or password, you will lose access to your wallet PERMANENTLY. Thus it is VERY IMPORTANT and IMPERATIVE that you keep a copy of your information somewhere safe.",
-    software_as_is: "THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. \n"
-                    + "IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.",
-    backup_backup_backup: "BACKUP, BACKUP, BACKUP again!",
-    im_aware_register: "I'm aware, Register!",
+    password_is_key: "Sua senha é a chave para acessar seus fundos, torná-lo o mais forte possível!",
+    no_keep_copy: "O ZelCore não guarda uma cópia da sua senha não criptografada local ou remotamente. Devido a esse recurso, não há como recuperar a senha nem alterá-la. \n"
+    + "Se você perder (ou esquecer) o seu nome de usuário ou senha, você perderá o acesso à sua carteira PERMANENTEMENTE. Assim, é MUITO IMPORTANTE e IMPERATIVO que você mantenha uma cópia de suas informações em algum lugar seguro.",
+    software_as_is: "O SOFTWARE É FORNECIDO "COMO ESTÁ", SEM NENHUM TIPO DE GARANTIA, EXPRESSA OU IMPLÍCITA, INCLUINDO, MAS NÃO SE LIMITANDO ÀS GARANTIAS DE COMERCIALIZAÇÃO, ADEQUAÇÃO A UM FIM ESPECÍFICO E NÃO VIOLAÇÃO. \n"
+                    + "EM NENHUMA CIRCUNSTÂNCIA, OS AUTORES OU PROPRIETÁRIOS DE DIREITOS DE AUTOR PODERÃO SER RESPONSABILIZADOS POR QUAISQUER RECLAMAÇÕES, DANOS OU OUTRAS RESPONSABILIDADES, QUER EM AÇÃO DE CONTRATO, DELITO OU DE OUTRA FORMA, DECORRENTES DE OU RELACIONADAS COM O SOFTWARE OU O USO OU OUTRAS NEGOCIAÇÕES NO PROGRAMAS.",
+    backup_backup_backup: "BACKUP, BACKUP, BACKUP novamente!",
+    im_aware_register: "Estou ciente, Registre!",
 
     // landingpage.vue
-    start_by: "Start by registering an account locally",
+    start_by: "Comece registrando uma conta localmente",
 
     // Welcome.vue
-    retrieving: "Retrieving deterministic wallets",
+    retrieving: "Recuperando carteiras deterministas",
 
     // Portfolio.vue
     add_asset: "Add asset",
